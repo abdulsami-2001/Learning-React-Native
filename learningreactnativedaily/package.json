@@ -15,6 +15,7 @@
     "@react-navigation/drawer": "^6.5.0",
     "@react-navigation/native": "^6.0.13",
     "@react-navigation/native-stack": "^6.9.1",
+    "date-and-time": "^2.4.1",
     "install": "^0.13.0",
     "lottie-react-native": "^5.1.4",
     "npm": "^8.19.2",
