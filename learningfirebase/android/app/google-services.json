@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "147822048449",
+    "project_id": "food-delivery-app-28-dec-22",
+    "storage_bucket": "food-delivery-app-28-dec-22.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:147822048449:android:cf70bd68729265ff709040",
+        "android_client_info": {
+          "package_name": "com.learningfirebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "147822048449-desdiij844eriqdf370jvau9qh2jlt6k.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyASa8nRGvVE8u9w-BHkOF4MOOyGTRr4bf4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "147822048449-desdiij844eriqdf370jvau9qh2jlt6k.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

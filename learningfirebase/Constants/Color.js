@@ -1,0 +1,20 @@
+export const ThemeColors = {
+    GOLD:'#f5c608',
+    // GOLD:'gold',
+    BLUE: '#5191D8',
+    RED:'#F63B3B',
+    WHITE:"#fff",
+    BLACK :"#000",
+    TOMATO:'tomato',
+    BLACKOPACITY50:"rgba(0,0,0,0.5)",
+    BLACKOPACITY80:"rgba(0,0,0,0.8)",
+    BLACKOPACITY_8:"rgba(0,0,0,0.08)",
+    GREEN:"#89d6ce",
+    PURPLE:"purple",
+    GRAY:"#333",
+    PINK:"pink",
+    ORANGE:"orange",
+    CADETBLUE:"cadetblue",
+    INDIGO:"indigo",
+    CGREEN: "#12B28E"
+}
