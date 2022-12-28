@@ -1,4 +1,9 @@
 {
   "name": "learningreactnativedaily",
-  "displayName": "learningreactnativedaily"
+  "displayName": "learningreactnativedaily",
+  "fan_app_id": "fan_app_id below",
+  "react-native-google-mobile-ads": {
+    "android_app_id": "ca-app-pub-1134648197562102~3499888318", 
+    "ios_app_id": "ca-app-pub-1134648197562102~3499888318"
+  }
 }
